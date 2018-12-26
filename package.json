@@ -1,0 +1,25 @@
+{
+  "name": "25.6.HTMLtemplates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajerMonika/25.6.HTMLtemplates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajerMonika/25.6.HTMLtemplates/issues"
+  },
+  "homepage": "https://github.com/MajerMonika/25.6.HTMLtemplates#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
