@@ -13,7 +13,7 @@ app.get( '/login', function( req, res ) {
 });
 
 app.get( '/auth/google', function( req, res) {
-    res.render( 'google', {
+    res.render( 'auth_google', {
         user: {
             first_name: 'Monika',
             last_name: 'Majer'
